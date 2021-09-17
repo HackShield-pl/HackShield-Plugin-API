@@ -1,4 +1,4 @@
-package pl.hackshield.api;
+package pl.hackshield.plugin.api;
 
 import lombok.Getter;
 import lombok.Setter;
